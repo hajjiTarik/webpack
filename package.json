@@ -6,7 +6,7 @@
   "dependencies": {
     "acorn": "^4.0.4",
     "acorn-dynamic-import": "^2.0.0",
-    "ajv": "^4.7.0",
+    "ajv": "^8.18.0",
     "ajv-keywords": "^1.1.1",
     "async": "^2.1.2",
     "enhanced-resolve": "^3.0.0",
@@ -21,7 +21,7 @@
     "supports-color": "^3.1.0",
     "tapable": "~0.2.5",
     "uglify-js": "^2.8.5",
-    "watchpack": "^1.2.0",
+    "watchpack": "^1.7.1",
     "webpack-sources": "^0.1.4",
     "yargs": "^6.0.0"
   },
